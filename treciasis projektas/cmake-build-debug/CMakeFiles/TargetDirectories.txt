@@ -1,0 +1,3 @@
+C:/Users/s057931/Documents/Strukturinis p/treciasis projektas/cmake-build-debug/CMakeFiles/treciasis_projektas.dir
+C:/Users/s057931/Documents/Strukturinis p/treciasis projektas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s057931/Documents/Strukturinis p/treciasis projektas/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/s057931/Documents/Strukturinis p/treciasis projektas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8qwj3k/CMakeFiles/cmTC_72599.dir
-C:/Users/s057931/Documents/Strukturinis p/treciasis projektas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8qwj3k/CMakeFiles/edit_cache.dir
-C:/Users/s057931/Documents/Strukturinis p/treciasis projektas/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-8qwj3k/CMakeFiles/rebuild_cache.dir
