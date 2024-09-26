@@ -1,1 +1,0 @@
-CMakeLists.txt not found in C:\Users\s057931\Documents\Strukturinis p Select CMakeLists.txt
