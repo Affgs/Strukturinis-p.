@@ -2,42 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "Antras_praktinis_darbas_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/s057931/Documents/Strukturinis p/Antras praktinis darbas/cmake-build-debug"
-		},
-		{
-			"name" : "Antras_praktinis_darbas_IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "Antras_praktinis_darbas_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "C:/Users/s057931/Documents/Strukturinis p/Antras praktinis darbas"
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -91,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/s057931/Documents/Strukturinis p/Antras praktinis darbas/cmake-build-debug"
+			"value" : "c:/Users/s057931/Documents/Strukturinis p/treciasis praktinis darbas/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -611,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/s057931/Documents/Strukturinis p/Antras praktinis darbas/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/s057931/Documents/Strukturinis p/treciasis praktinis darbas/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -683,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/s057931/Documents/Strukturinis p/Antras praktinis darbas"
+			"value" : "C:/Users/s057931/Documents/Strukturinis p/treciasis praktinis darbas"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -695,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Antras_praktinis_darbas"
+			"value" : "C:/Program Files (x86)/treciasis_praktinis_darbas"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -911,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Antras_praktinis_darbas"
+			"value" : "treciasis_praktinis_darbas"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1316,6 +1280,42 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "TRUE"
+		},
+		{
+			"name" : "treciasis_praktinis_darbas_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/s057931/Documents/Strukturinis p/treciasis praktinis darbas/cmake-build-debug"
+		},
+		{
+			"name" : "treciasis_praktinis_darbas_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "treciasis_praktinis_darbas_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "C:/Users/s057931/Documents/Strukturinis p/treciasis praktinis darbas"
 		}
 	],
 	"kind" : "cache",
