@@ -5,22 +5,25 @@
 using namespace std;
 
 int main() {
-    
-    int n;
-    int rezultatas=0;
+
+   char sk[10];
+    char rez[10];
+    int rezult=0;
 
     ifstream duomenuFailas;
     ofstream rezultatuFailas;
     duomenuFailas.open("input.txt");
-    duomenuFailas >> n;
+    duomenuFailas >> sk;
     duomenuFailas.close();
 
-for(int i=0; i<=4; i++) {
-    rezultatas=rezultatas+n;
+for(int i=1; i<=4; i++) {
+
+    rezult=rez[i]+sk[i];
+
 }
 
     rezultatuFailas.open("output.txt");
-    rezultatuFailas<<rezultatas;
+    rezultatuFailas<<rezult;
     rezultatuFailas.close();
 
     return 0;
